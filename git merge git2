@@ -1,0 +1,31 @@
+[1mdiff --git a/hgdiuuu b/hgdiuuu[m
+[1mdeleted file mode 100644[m
+[1mindex 0e9a82b..0000000[m
+[1m--- a/hgdiuuu[m
+[1m+++ /dev/null[m
+[36m@@ -1,17 +0,0 @@[m
+[31m-[m
+[31m-                   SSUUMMMMAARRYY OOFF LLEESSSS CCOOMMMMAANNDDSS[m
+[31m-[m
+[31m-      Commands marked with * may be preceded by a number, _N.[m
+[31m-      Notes in parentheses indicate the behavior if _N is given.[m
+[31m-      A key preceded by a caret indicates the Ctrl key; thus ^K is ctrl-K.[m
+[31m-[m
+[31m-  h  H                 Display this help.[m
+[31m-  q  :q  Q  :Q  ZZ     Exit.[m
+[31m- ---------------------------------------------------------------------------[m
+[31m-[m
+[31m-                           MMOOVVIINNGG[m
+[31m-[m
+[31m-  e  ^E  j  ^N  CR  *  Forward  one line   (or _N lines).[m
+[31m-  y  ^Y  k  ^K  ^P  *  Backward one line   (or _N lines).[m
+[31m-  ESC-j             *  Forward  one file line (or _N file lines).[m
+[31m-  ESC-k             *  Backward one file line (or _N file lines).[m
+[1mdiff --git a/newtext.txt b/newtext.txt[m
+[1mdeleted file mode 100644[m
+[1mindex fda15db..0000000[m
+[1m--- a/newtext.txt[m
+[1m+++ /dev/null[m
+[36m@@ -1 +0,0 @@[m
+[31m-hii this is the newtext[m
+\ No newline at end of file[m
